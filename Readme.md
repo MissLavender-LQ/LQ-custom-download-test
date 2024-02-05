@@ -4,6 +4,5 @@
 # [Stand alone](id1-lite-nonlite.md)
 
 
-
 ### as a Mod (Requires Quake to play)
 # [Mod](lq1-lite-nonlite.md)

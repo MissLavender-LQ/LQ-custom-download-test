@@ -4,6 +4,5 @@
 # [Non-lite](lq1-nonlite-ogg-mp3.md)
 
 
-
 ### Lite (Version for lower power hardware)
-# [MOD](lq1-lite-ogg-mp3.md)
+# [Lite](lq1-lite-ogg-mp3.md)
